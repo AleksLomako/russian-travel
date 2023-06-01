@@ -18,6 +18,5 @@
 @media screen and (min-width: 1280px) {
     .place__description {
         row-gap: 26px;
-        margin: 0px;
     }
 }
